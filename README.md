@@ -3,7 +3,7 @@ Clustering data using gradient decent method.
 
 In the "all-against-one" method, one class is considered as the positive class while the rest of the data is considered as negative class data. Therefore, one class is separated from the others, and similarly, the other classes are separated as well. Initially, we performed this on the "high" data and drew the separating line. As evident, the separating line has successfully distinguished the data from each other.
 
-![image](https://github.com/romidi80/Clustering-Data-using--one-against-all-gradient-decent-algorithm/assets/89667194/b3a9cbc8-5597-46d1-8cc6-983b1ace414c)
+![image](https://github.com/romidi80/Clustering-Data-using--one-against-all-gradient-decent-algorithm/assets/89667194/bdd9c3f0-1498-41fc-98e0-3fa0496f3057)
 
 ![image](https://github.com/romidi80/Clustering-Data-using--one-against-all-gradient-decent-algorithm/assets/89667194/cf82111d-bdd1-450f-8980-aaa9b1063889)
 
